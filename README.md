@@ -47,7 +47,7 @@ INFO= He recibido una conexión
 * Visual Studio Code - Editor de texto
 * Terminal del sistema - Pruebas de la práctica
 
-## Autores ✒️
+## Autores
 
 * **América G. Martínez Cano** - *348810* - [https://github.com/americap3]
 
