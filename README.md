@@ -60,4 +60,5 @@ Clase del 20/04/2023 de Desarrollo Basado en Plataformas
 ## Información
 
 6CC2 | Facultad de Ingeniería
+
 Universidad Autónoma de Chihuahua
